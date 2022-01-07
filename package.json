@@ -1,0 +1,19 @@
+{
+  "name": "starter-static",
+  "version": "1.0.0",
+  "description": "A start project with base styles reset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass scss/styles.scss css/styles.css --watch" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "starter static"
+  },
+  "author": "Nathan Leduc",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.46.0"
+  }
+}
